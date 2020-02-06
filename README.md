@@ -1,5 +1,5 @@
 # 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）
-收录了2020年新型冠状病毒感染的肺炎（2019-nCoV）深度报道和非虚构作品的地址、截图、存档。
+Includes the in-depth reports of new coronavirus-infected pneumonia (2019-nCoV) in 2020, and addresses, screenshots, and archives of non-fictional works.
 
 （由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。）
 
